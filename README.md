@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UDAYJADI4
-- 👀 I’m interested in BLOCKCHAIN AND WEB3 
-- 🌱 I’m currently learning SOLIDITY
+- 👀 I’m interested in DeepLearning AND Quantum Computing
+- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
